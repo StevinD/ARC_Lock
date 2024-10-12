@@ -1,0 +1,194 @@
+{
+  "main": {
+    "id": "eed676c684d03fcc",
+    "type": "split",
+    "children": [
+      {
+        "id": "ac8e2d998d2a4fb9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8d741ab37195e116",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Overall summary.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c7d52d69c976d9ba",
+    "type": "split",
+    "children": [
+      {
+        "id": "e16f813e73e2b641",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "68c08fc806c85070",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0290a046d1823ae3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d31261f24d336625",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "525e63da3408a771",
+    "type": "split",
+    "children": [
+      {
+        "id": "476af3543a325b66",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "39eb2b01002a50bc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Overall summary.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d253daeaf80f1996",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Overall summary.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c2da22c808f0b252",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6838cfeff86321b6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Overall summary.md"
+              }
+            }
+          },
+          {
+            "id": "bf12d436ca74fd0d",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "8d741ab37195e116",
+  "lastOpenFiles": [
+    "Afeef/library test for Firebase.md",
+    "Overall summary.md",
+    "Pasted image 20240916151538.png",
+    "Excalidraw/Project_Plan.excalidraw",
+    "Excalidraw/Project Plan.excalidraw.md",
+    "Afeef/Unconfirmed 465200.crdownload",
+    "Excalidraw",
+    "Pasted image 20240916151545.png",
+    "Afeef",
+    "Introduction.md",
+    "Index page.md",
+    "course-downloads/cloud-storage/2030/11/course3.png",
+    "course-downloads/cloud-storage/2030/11/course2.png",
+    "course-downloads/cloud-storage/2030/10/course2.png",
+    "course-downloads/cloud-storage/2030/10/course1.png",
+    "course-downloads/__MACOSX/cloud-storage/2030/11",
+    "course-downloads/__MACOSX/cloud-storage/2030/10",
+    "course-downloads/cloud-storage/tools/kubernetes.png",
+    "course-downloads/cloud-storage/tools/docker.png",
+    "course-downloads/cloud-storage/process/devops.png",
+    "course-downloads/cloud-storage/cloud/googlecloud.png",
+    "course-downloads/cloud-storage/2030/11",
+    "course-downloads/cloud-storage/2030/10",
+    "course-downloads/app-engine/my-first-service/requirements.txt",
+    "course-downloads/app-engine/my-first-service/main.py",
+    "course-downloads/commands-executed.md",
+    "Basic setup.md",
+    "Creating the portfolio app.md",
+    "Untitled.canvas",
+    "documentation/best Firebase library.md",
+    "documentation/Relay module switching problem.md",
+    "documentation/Starting page.md",
+    "Templates/Daily template.md"
+  ]
+}
